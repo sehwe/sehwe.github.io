@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sehwe.github.io/tDg/sitemap.tDg.gz
